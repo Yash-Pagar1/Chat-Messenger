@@ -12,7 +12,7 @@ This project is a Java-based peer-to-peer chat application that enables real-tim
 - Along with providing basic chat functionality, it also maintains a log file that records all conversation details in a periodic fashion for future reference.
   
 - The application is platform and architecture independent, running on any system with a Java Runtime Environment (JRE).
-- 
+
 
 # Key Features :
 
